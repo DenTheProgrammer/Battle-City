@@ -1,0 +1,549 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.782; Version 2009; 64bit' Language: 'ru' Physical Memory: 16331 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityProjects/Battle-City
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49342
+Successfully changed project path to: D:/UnityProjects/Battle-City
+D:/UnityProjects/Battle-City
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProjects/Battle-City/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002048 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 45.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000671 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 45.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.5 MB.
+System memory in use after: 84.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 2.275100 ms (FindLiveObjects: 0.172100 ms CreateObjectMapping: 0.067400 ms MarkObjects: 1.874000 ms  DeleteObjects: 0.160400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/NES - Battle City JPN - General Sprites_16.prefab
+  artifactKey: Guid(43139f51e92684e49949037518ed5588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NES - Battle City JPN - General Sprites_16.prefab using Guid(43139f51e92684e49949037518ed5588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4eddd566deeb8dc1d77b84d4ddf67f') in 0.103161 seconds
+  Import took 0.106799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.253025 seconds.
+  path: Assets/New Sprite Atlas.spriteatlas
+  artifactKey: Guid(bfbbcdf2105666446be6aa319ef8e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Sprite Atlas.spriteatlas using Guid(bfbbcdf2105666446be6aa319ef8e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c13285ea3745cccf35749cdf646209') in 0.003543 seconds
+  Import took 0.007673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008772 seconds.
+  path: Assets/New Sprite Atlas.spriteatlas
+  artifactKey: Guid(bfbbcdf2105666446be6aa319ef8e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Sprite Atlas.spriteatlas using Guid(bfbbcdf2105666446be6aa319ef8e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c13285ea3745cccf35749cdf646209') in 0.001675 seconds
+  Import took 0.005585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.098758 seconds.
+  path: Assets/BrickWall.png
+  artifactKey: Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall.png using Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80358bcb21294e673fc51e0199011e40') in 0.040841 seconds
+  Import took 0.044853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.400531 seconds.
+  path: Assets/Tiles
+  artifactKey: Guid(9a68e27897f7e57459bdc5740b5c3c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles using Guid(9a68e27897f7e57459bdc5740b5c3c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1250c7bb5650b515c6e997d3502b95a') in 0.001227 seconds
+  Import took 0.005137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073572 seconds.
+  path: Assets/Tiles/BrickWall.asset
+  artifactKey: Guid(426522f15a59c8a42a6572ffd809a6d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BrickWall.asset using Guid(426522f15a59c8a42a6572ffd809a6d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e414a62df2d5595f39b700cf5e5f640') in 0.054415 seconds
+  Import took 0.058533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.194451 seconds.
+  path: Assets/TileMaps/BrickWall.prefab
+  artifactKey: Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMaps/BrickWall.prefab using Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0c1b6d92d7e928e99ace85a539cedd') in 0.003647 seconds
+  Import took 0.007121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.274917 seconds.
+  path: Assets/BrickWall.png
+  artifactKey: Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall.png using Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bac45cd2c1cf95379ada4a4cf3d5c1a') in 0.008672 seconds
+  Import took 0.012416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.976793 seconds.
+  path: Assets/BrickWall.png
+  artifactKey: Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall.png using Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eca0a45179db9d0b649d9191ca190f7') in 0.004580 seconds
+  Import took 0.008258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010238 seconds.
+  path: Assets/BrickWall.png
+  artifactKey: Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall.png using Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eca0a45179db9d0b649d9191ca190f7') in 0.008863 seconds
+  Import took 0.012892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.176206 seconds.
+  path: Assets/BrickWall.png
+  artifactKey: Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall.png using Guid(3708034307791ad4fb2eb12534a7740a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05baceb5956373f2dab69439acf7ad6d') in 0.023289 seconds
+  Import took 0.026951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 222.584531 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa258d245123a27237dcc1e509c9114f') in 0.011012 seconds
+  Import took 0.014793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010955 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa258d245123a27237dcc1e509c9114f') in 0.014254 seconds
+  Import took 0.018324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.096319 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d800df50c681a5e2acc835760fe66cb') in 0.004539 seconds
+  Import took 0.008248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011053 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d800df50c681a5e2acc835760fe66cb') in 0.004839 seconds
+  Import took 0.008693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.020320 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746198967ba8655074234f04f1c0fa00') in 0.022714 seconds
+  Import took 0.026416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.685029 seconds.
+  path: Assets/TileMaps/BrickWall.prefab
+  artifactKey: Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMaps/BrickWall.prefab using Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8af3d50c823f158b889dfeb9537087') in 0.003024 seconds
+  Import took 0.006671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006802 seconds.
+  path: Assets/TileMaps/BrickWall.prefab
+  artifactKey: Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMaps/BrickWall.prefab using Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8af3d50c823f158b889dfeb9537087') in 0.003425 seconds
+  Import took 0.007210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.888923 seconds.
+  path: Assets/TileMaps/BrickWall.prefab
+  artifactKey: Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMaps/BrickWall.prefab using Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38aa1c06f92680b7f190f52be071eed6') in 0.002919 seconds
+  Import took 0.006449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007806 seconds.
+  path: Assets/TileMaps/BrickWall.prefab
+  artifactKey: Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMaps/BrickWall.prefab using Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38aa1c06f92680b7f190f52be071eed6') in 0.003079 seconds
+  Import took 0.006874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.196148 seconds.
+  path: Assets/TileMaps/BrickWall.prefab
+  artifactKey: Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMaps/BrickWall.prefab using Guid(b5083557fd78ff8438b990336398a7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c0750aa4840e67282ef38c068b65358') in 0.002918 seconds
+  Import took 0.006555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 396.144276 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7679e766a1548559f1444d2fd499c936') in 0.012545 seconds
+  Import took 0.016267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006023 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7679e766a1548559f1444d2fd499c936') in 0.017944 seconds
+  Import took 0.022016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.836352 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67738702d51328d9693cd661149dd06b') in 0.018716 seconds
+  Import took 0.022523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.328681 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70ae6f0b3fb01addd52449a6d7abc77') in 0.012742 seconds
+  Import took 0.016497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004755 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70ae6f0b3fb01addd52449a6d7abc77') in 0.025068 seconds
+  Import took 0.029297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.438695 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b899e94c839e98b95e5974f2b084b3e8') in 0.015725 seconds
+  Import took 0.019418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.809837 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6648c4129571df5561e91c7d66e91c37') in 0.017201 seconds
+  Import took 0.020949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.118350 seconds.
+  path: Assets/TilePallets
+  artifactKey: Guid(86ec6f903120a444eb8c0fd941e79158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilePallets using Guid(86ec6f903120a444eb8c0fd941e79158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ceadbf38ae50c42b994e697e7b060db') in 0.001254 seconds
+  Import took 0.004987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065071 seconds.
+  path: Assets/TilePallets/Bricks.prefab
+  artifactKey: Guid(6957e02b22d8a6940b687f71dcd5ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilePallets/Bricks.prefab using Guid(6957e02b22d8a6940b687f71dcd5ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02586d8301cf5f2b2f215bc923fb7b3') in 0.003148 seconds
+  Import took 0.006839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.619756 seconds.
+  path: Assets/TilePallets/Bricks.prefab
+  artifactKey: Guid(6957e02b22d8a6940b687f71dcd5ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilePallets/Bricks.prefab using Guid(6957e02b22d8a6940b687f71dcd5ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b662d785736c3ace0035f8c823b6ba65') in 0.003272 seconds
+  Import took 0.007531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017193 seconds.
+  path: Assets/TilePallets/Bricks.prefab
+  artifactKey: Guid(6957e02b22d8a6940b687f71dcd5ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilePallets/Bricks.prefab using Guid(6957e02b22d8a6940b687f71dcd5ce0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b662d785736c3ace0035f8c823b6ba65') in 0.003197 seconds
+  Import took 0.006920 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000862 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.017 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2270.
+Total: 2.542300 ms (FindLiveObjects: 0.294000 ms CreateObjectMapping: 0.082600 ms MarkObjects: 2.021100 ms  DeleteObjects: 0.142900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.042 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2274.
+Total: 2.522200 ms (FindLiveObjects: 0.298200 ms CreateObjectMapping: 0.083200 ms MarkObjects: 1.981200 ms  DeleteObjects: 0.158000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.917337 seconds.
+  path: Assets/Tiles/BrickWall8x8_0.asset
+  artifactKey: Guid(a9fe1bf244dd1024f80a0772ebe8801d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BrickWall8x8_0.asset using Guid(a9fe1bf244dd1024f80a0772ebe8801d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2360bab64315c437ed2e86b4a492380') in 0.058310 seconds
+  Import took 0.062479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Tiles/BrickWall8x8_3.asset
+  artifactKey: Guid(a66eff04ac0d9184090cafa30ce4ed76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BrickWall8x8_3.asset using Guid(a66eff04ac0d9184090cafa30ce4ed76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88271b9c25780e9979a22c1ece87df4a') in 0.014840 seconds
+  Import took 0.019102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Tiles/BrickWall8x8_1.asset
+  artifactKey: Guid(0e297183524c89e479cab0e6650112d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BrickWall8x8_1.asset using Guid(0e297183524c89e479cab0e6650112d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c887b744d749222db6e64106df2a6c0') in 0.005253 seconds
+  Import took 0.008717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tiles/BrickWall8x8_2.asset
+  artifactKey: Guid(89fce6dc08dc7284b9b3c6a8ef718c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BrickWall8x8_2.asset using Guid(89fce6dc08dc7284b9b3c6a8ef718c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989311ca29890d7ec168d3f21aee5a05') in 0.010019 seconds
+  Import took 0.013678 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000820 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.027 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1801 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 2.212100 ms (FindLiveObjects: 0.192200 ms CreateObjectMapping: 0.065600 ms MarkObjects: 1.800900 ms  DeleteObjects: 0.151900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.271072 seconds.
+  path: Assets/16x16 NES - Battle City 1.png
+  artifactKey: Guid(075dd973fa4cd6e4d9e6f7d5457a8da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/16x16 NES - Battle City 1.png using Guid(075dd973fa4cd6e4d9e6f7d5457a8da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3b3542383d67f464bf5fc902f0ca4e') in 0.520318 seconds
+  Import took 0.526093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.905932 seconds.
+  path: Assets/8x8 NES - Battle City 1.png
+  artifactKey: Guid(075dd973fa4cd6e4d9e6f7d5457a8da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8x8 NES - Battle City 1.png using Guid(075dd973fa4cd6e4d9e6f7d5457a8da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a67d23c66e3a0f1689bbff54d28b1f') in 0.547354 seconds
+  Import took 0.553073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.837496 seconds.
+  path: Assets/8x8 NES - Battle City 1.png
+  artifactKey: Guid(075dd973fa4cd6e4d9e6f7d5457a8da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8x8 NES - Battle City 1.png using Guid(075dd973fa4cd6e4d9e6f7d5457a8da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f9c888b5b5b301b009af058a77f290') in 1.894426 seconds
+  Import took 1.906774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.283910 seconds.
+  path: Assets/StoneWall8x8.asset
+  artifactKey: Guid(519d1c8ce646df544b484955880b762d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.asset using Guid(519d1c8ce646df544b484955880b762d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1cfb19a6a3eb31b34ea24a23f463900') in 0.018505 seconds
+  Import took 0.022940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2152.158634 seconds.
+  path: Assets/BrickWall8x8.png
+  artifactKey: Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrickWall8x8.png using Guid(14734498d1ded2d47ba650c908e9260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0b6877251d42b611a11a953bbeeb71') in 0.016434 seconds
+  Import took 0.020301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.410420 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65dc298faf4adaacad0d2dc898d0bb03') in 0.008841 seconds
+  Import took 0.012635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.869639 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954b1cc9f919805a43e49c4f3d951111') in 0.007484 seconds
+  Import took 0.011203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007383 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954b1cc9f919805a43e49c4f3d951111') in 0.008107 seconds
+  Import took 0.012651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.413357 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8cec740e2b2fbf0e77a805392add60') in 0.006065 seconds
+  Import took 0.009743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009636 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8cec740e2b2fbf0e77a805392add60') in 0.007915 seconds
+  Import took 0.011640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.687794 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c65e04a37e09c9c540757c385673fb') in 0.006500 seconds
+  Import took 0.010219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008946 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c65e04a37e09c9c540757c385673fb') in 0.007348 seconds
+  Import took 0.011452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.864761 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68cbbb024cce2943ff73c04cb350d4a1') in 0.009595 seconds
+  Import took 0.013706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017191 seconds.
+  path: Assets/StoneWall8x8.png
+  artifactKey: Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StoneWall8x8.png using Guid(1a2e5f3fbb59fc547b769448276492b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68cbbb024cce2943ff73c04cb350d4a1') in 0.008147 seconds
+  Import took 0.011956 seconds .
+
