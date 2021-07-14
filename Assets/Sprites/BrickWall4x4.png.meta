@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 14734498d1ded2d47ba650c908e9260a
+guid: 20b603346178f6d4b9c85ebfd43d6d64
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7645140768745028758
-    second: BrickWall8x8_0
+      213: 5250882370984451494
+    second: BrickWall4x4_0
   - first:
-      213: 1635273858955456564
-    second: BrickWall8x8_1
+      213: 515449762035442625
+    second: BrickWall4x4_1
   - first:
-      213: -8572299721548259126
-    second: BrickWall8x8_2
+      213: 168912625293301507
+    second: BrickWall4x4_2
   - first:
-      213: 3478493493698652708
-    second: BrickWall8x8_3
+      213: 4008455301915936421
+    second: BrickWall4x4_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BrickWall8x8_0
+      name: BrickWall4x4_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 4
-        width: 4
-        height: 4
+        y: 8
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,20 +129,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69c77e2060ff81a60800000000000000
-      internalID: 7645140768745028758
+      spriteID: 6ad93ef22b1eed840800000000000000
+      internalID: 5250882370984451494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrickWall8x8_1
+      name: BrickWall4x4_1
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 4
-        height: 4
+        x: 8
+        y: 8
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 430b58129e8a1b610800000000000000
-      internalID: 1635273858955456564
+      spriteID: 1c3aeadd3de372700800000000000000
+      internalID: 515449762035442625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrickWall8x8_2
+      name: BrickWall4x4_2
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 4
-        height: 4
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac0afec32d2190980800000000000000
-      internalID: -8572299721548259126
+      spriteID: 3079fa44329185200800000000000000
+      internalID: 168912625293301507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrickWall8x8_3
+      name: BrickWall4x4_3
       rect:
         serializedVersion: 2
-        x: 4
+        x: 8
         y: 0
-        width: 4
-        height: 4
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +192,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42a6a651767164030800000000000000
-      internalID: 3478493493698652708
+      spriteID: 5a60bb00cd4e0a730800000000000000
+      internalID: 4008455301915936421
       vertices: []
       indices: 
       edges: []
